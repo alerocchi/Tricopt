@@ -1,0 +1,1 @@
+Folder containing information about all required mechanical parts to be purchased for building the model

@@ -1,0 +1,1 @@
+Folder containing information about all electrical components to be purchased for building the PCB
